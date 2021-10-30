@@ -22,5 +22,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için., lütfen önce neyi
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![project picture](https://resimyukle.io/r/3wAEdG4sVj)
+![project picture](https://www.hizliresim.com/rssfx5o)
 
